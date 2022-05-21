@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\bin\Debug\Task_17_Degree.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\bin\Debug\Task_17_Degree.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\bin\Debug\Task_17_Degree.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\obj\Debug\Task_17_Degree.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\obj\Debug\Task_17_Degree.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\obj\Debug\Task_17_Degree.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\obj\Debug\Task_17_Degree.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_17_Degree\Task_17_Degree\obj\Debug\Task_17_Degree.pdb
